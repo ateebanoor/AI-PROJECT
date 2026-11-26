@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Snake AI: BFS vs A* vs Genetic Algorithm
 
 Three snakes play classic Snake on a 10x10 board: one finds food with **BFS**, one with **A\***, and one follows a simple decision rule whose four weights are **evolved by a genetic algorithm**. They are compared on 100 identical games by average score, survival time and search effort. The project shows why a heuristic makes search cheaper, how a snake that only chases food eventually traps itself, and how evolution finds a rule that keeps more room to live.
@@ -66,3 +67,7 @@ src/       config.py game.py search.py agents.py ga.py runner.py experiment.py v
 tests/     test_snake.py
 outputs/   figures/ and results/
 ```
+=======
+# AI-PROJECT
+FALL'26
+>>>>>>> cc90d921da60237ec05f7add4b13c9a0e2b94a2f
