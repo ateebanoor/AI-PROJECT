@@ -1,17 +1,17 @@
 
-# Snake AI: BFS vs A* vs Genetic Algorithm
+# AL-2002 Artificial Intelligence (Lab), Fall 2026, FAST-NUCES Karachi.
+
+## Snake AI: BFS vs A* vs Genetic Algorithm
 
 Three snakes play classic Snake on a 10x10 board: one finds food with **BFS**, one with **A\***, and one follows a simple decision rule whose four weights are **evolved by a genetic algorithm**. They are compared on 100 identical games by average score, survival time and search effort. The project shows why a heuristic makes search cheaper, how a snake that only chases food eventually traps itself, and how evolution finds a rule that keeps more room to live.
-
-AL-2002 Artificial Intelligence (Lab), Fall 2026, FAST-NUCES Karachi.
 
 ## Team
 
 | Member | Roll no. | What they built |
 |---|---|---|
-| *[Syeda Areej Shah]* | *[24K-2512]* | *[Breadth First Search, Game Logic]* |
-| *[Dua]* | *[24K-2566]* | *[Genetic Algorithm, Experiment]* |
-| *[Ateeba Noor]* | *[24K-2572]* | *[A* Search, Experiment, Testing]* |
+| *Syeda Areej Shah* | *24K-2512* | *Breadth First Search, Game Logic* |
+| *Dua* | *24K-2566* | *Genetic Algorithm, Experiment* |
+| *Ateeba Noor* | *24K-2572* | *A* Search, Experiment, Testing* |
 
 
 The experiment is fully seeded: the same numbers appear on every run. Results are written to `outputs/results/` and charts to `outputs/figures/`.
